@@ -1,8 +1,8 @@
 {
-    "homepage": "https://kktix.com/events/3c835a74/registrations/new",
-    "browser": "chrome",
+    "homepage": "https://tixcraft.com",
+    "browser": "firefox",
     "language": "\u7e41\u9ad4\u4e2d\u6587",
-    "ticket_number": 1,
+    "ticket_number": 2,
     "refresh_datetime": "",
     "ocr_captcha": {
         "enable": true,
@@ -19,9 +19,9 @@
     "area_auto_select": {
         "enable": true,
         "mode": "random",
-        "area_keyword": "\"6.480\",\"5,600\",\"4,800\",\"\""
+        "area_keyword": "\"2,800\",\"3,800\",\"\""
     },
-    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3\u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\",\"\u8eab\u5fc3\u969c\u7919\u7968\",\"\u4e09\u661f\"",
+    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3 \u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\"",
     "kktix": {
         "auto_press_next_step_button": true,
         "auto_fill_ticket_number": true,
@@ -40,10 +40,10 @@
             "order": false,
             "filename": "ding-dong.wav"
         },
-        "tixcraft_sid": "",
+        "tixcraft_sid": "SID:\"i92sud7eakbs5lusvmiod8lr0e\"",
         "ibonqware": "",
-        "facebook_account": "ericyourfather@hotmail.com",
-        "kktix_account": "ericyourfather",
+        "facebook_account": "",
+        "kktix_account": "",
         "fami_account": "",
         "cityline_account": "",
         "urbtix_account": "",
@@ -52,8 +52,8 @@
         "ticket_account": "",
         "udn_account": "",
         "ticketplus_account": "",
-        "facebook_password": "YXxhdicmIio=",
-        "kktix_password": "YXxhdicmIio=",
+        "facebook_password": "",
+        "kktix_password": "",
         "fami_password": "",
         "urbtix_password": "",
         "cityline_password": "",
@@ -76,20 +76,20 @@
         "disable_adjacent_seat": false,
         "adblock": true,
         "hide_some_image": true,
-        "block_facebook_network": false,
+        "block_facebook_network": true,
         "headless": false,
         "verbose": false,
         "auto_guess_options": true,
-        "user_guess_string": "\"TWICETPE\"",
+        "user_guess_string": "\"539657\",\"545278\"",
         "remote_url": "\"http://127.0.0.1:16888/\"",
-        "auto_reload_page_interval": 0.9,
+        "auto_reload_page_interval": 0.3,
         "auto_reload_overheat_count": 4,
         "auto_reload_overheat_cd": 1.0,
         "reset_browser_interval": 0,
         "proxy_server_port": "",
         "window_size": "",
         "idle_keyword": "",
-        "resume_keyword": "\"10:59:50\"",
+        "resume_keyword": "",
         "idle_keyword_second": "",
         "resume_keyword_second": ""
     }

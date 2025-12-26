@@ -10,7 +10,7 @@
         "force_submit": true,
         "image_source": "canvas"
     },
-    "webdriver_type": "undetected_chromedriver",
+    "webdriver_type": "nodriver",
     "date_auto_select": {
         "enable": true,
         "date_keyword": "",
@@ -18,10 +18,10 @@
     },
     "area_auto_select": {
         "enable": true,
-        "mode": "random",
-        "area_keyword": "\"6.480\",\"5,600\",\"4,800\",\"\""
+        "mode": "from top to bottom",
+        "area_keyword": "\"6,480\",\"5,600\",\"4,800\",\"4,200\",\"3,200\",\"2,200\",\"\""
     },
-    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3\u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\",\"\u8eab\u5fc3\u969c\u7919\u7968\",\"\u4e09\u661f\"",
+    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3\u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\",\"\u8eab\u5fc3\u969c\u7919\u7968\"",
     "kktix": {
         "auto_press_next_step_button": true,
         "auto_fill_ticket_number": true,
@@ -42,7 +42,7 @@
         },
         "tixcraft_sid": "",
         "ibonqware": "",
-        "facebook_account": "ericyourfather@hotmail.com",
+        "facebook_account": "",
         "kktix_account": "ericyourfather",
         "fami_account": "",
         "cityline_account": "",
@@ -52,7 +52,7 @@
         "ticket_account": "",
         "udn_account": "",
         "ticketplus_account": "",
-        "facebook_password": "YXxhdicmIio=",
+        "facebook_password": "",
         "kktix_password": "YXxhdicmIio=",
         "fami_password": "",
         "urbtix_password": "",
@@ -76,20 +76,20 @@
         "disable_adjacent_seat": false,
         "adblock": true,
         "hide_some_image": true,
-        "block_facebook_network": false,
+        "block_facebook_network": true,
         "headless": false,
         "verbose": false,
         "auto_guess_options": true,
-        "user_guess_string": "\"TWICETPE\"",
+        "user_guess_string": "\"539657\"",
         "remote_url": "\"http://127.0.0.1:16888/\"",
-        "auto_reload_page_interval": 0.9,
+        "auto_reload_page_interval": 0.6,
         "auto_reload_overheat_count": 4,
         "auto_reload_overheat_cd": 1.0,
         "reset_browser_interval": 0,
         "proxy_server_port": "",
         "window_size": "",
         "idle_keyword": "",
-        "resume_keyword": "\"10:59:50\"",
+        "resume_keyword": "",
         "idle_keyword_second": "",
         "resume_keyword_second": ""
     }
